@@ -48,22 +48,4 @@ For a manual installation, download `app-release.apk`. It is the universal APK a
 | `app-armeabi-v7a-release.apk` | 32-bit ARM devices |
 | `app-x86_64-release.apk` | x86_64 emulators and compatible devices |
 
----
-
-## App capabilities
-
-- Current timetable and examination schedule
-- Academic journal, attendance and course details
-- Attestation results and transcript data
-- Student profile, services and academic documents
-- Individual study plan and course selection
-- Offline-aware data loading, calendar synchronization and Android notifications
-
-## License
-
-Copyright © 2026 AppSatbayev. All Rights Reserved.
-
-The APK files, application design, branding, assets, screenshots and
-documentation in this repository may not be copied, modified or redistributed
-without prior written permission from the copyright holder. See
-[LICENSE.md](LICENSE.md) for the full terms.
+<p align="center"><sub>Copyright &copy; 2026 AppSatbayev. All Rights Reserved. The APK, design, branding, assets, screenshots and documentation may not be copied, modified or redistributed without prior written permission. <a href="LICENSE.md">License details</a>.</sub></p>
