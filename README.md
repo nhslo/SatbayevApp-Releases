@@ -59,20 +59,11 @@ For a manual installation, download `app-release.apk`. It is the universal APK a
 - Individual study plan and course selection
 - Offline-aware data loading, calendar synchronization and Android notifications
 
-## Installation and updates
+## License
 
-1. Open the [latest release](https://github.com/nhslo/SatbayevApp-Releases/releases/latest).
-2. Download `app-release.apk`.
-3. Open the downloaded file and confirm installation in the Android system installer.
+Copyright © 2026 AppSatbayev. All Rights Reserved.
 
-The app can also offer the same update from its in-app update flow. Releases are signed with the production certificate, so updates preserve the account session and local application data when the installed package has the same application ID and the incoming Android `versionCode` is higher.
-
-Android intentionally prevents installing an older APK over a newer one. To install a historical release, first remove the current AppSatbayev installation; local application data will be cleared by Android. Then download the required version from the [release history](https://github.com/nhslo/SatbayevApp-Releases/releases) and install its universal APK.
-
-## Repository scope
-
-This repository is the public distribution channel for signed Android APK files and release notes. Application source code, signing credentials and deployment tokens are not stored here. The installed application checks this repository for updates without embedding a GitHub token.
-
-## Release integrity
-
-Only assets attached to a published GitHub Release should be used for installation. Do not install APK files mirrored by third-party sites. Each release contains its own change log, version number and signed APK assets.
+The APK files, application design, branding, assets, screenshots and
+documentation in this repository may not be copied, modified or redistributed
+without prior written permission from the copyright holder. See
+[LICENSE.md](LICENSE.md) for the full terms.
