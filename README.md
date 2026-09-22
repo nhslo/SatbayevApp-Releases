@@ -17,21 +17,6 @@
 
 ---
 
-<h2 align="center">Download</h2>
-
-<p align="center">
-  Get the app from the <a href="https://github.com/nhslo/SatbayevApp-Releases/releases/latest">latest stable release</a>.
-</p>
-
-For a manual installation, download `app-release.apk`. It is the universal APK and is the recommended choice for most devices. The release also contains architecture-specific packages for devices or deployment tools that require them:
-
-| File | Intended device |
-| --- | --- |
-| `app-release.apk` | Universal APK; recommended for manual installation |
-| `app-arm64-v8a-release.apk` | Modern 64-bit ARM devices |
-| `app-armeabi-v7a-release.apk` | 32-bit ARM devices |
-| `app-x86_64-release.apk` | x86_64 emulators and compatible devices |
-
 <h2 align="center">Screenshots</h2>
 
 <p align="center">
@@ -47,6 +32,21 @@ For a manual installation, download `app-release.apk`. It is the universal APK a
 </p>
 
 <p align="center"><sub>All account and academic values shown in screenshots are demonstration data.</sub></p>
+
+<h2 align="center">Download</h2>
+
+<p align="center">
+  Get the app from the <a href="https://github.com/nhslo/SatbayevApp-Releases/releases/latest">latest stable release</a>.
+</p>
+
+For a manual installation, download `app-release.apk`. It is the universal APK and is the recommended choice for most devices. The release also contains architecture-specific packages for devices or deployment tools that require them:
+
+| File | Intended device |
+| --- | --- |
+| `app-release.apk` | Universal APK; recommended for manual installation |
+| `app-arm64-v8a-release.apk` | Modern 64-bit ARM devices |
+| `app-armeabi-v7a-release.apk` | 32-bit ARM devices |
+| `app-x86_64-release.apk` | x86_64 emulators and compatible devices |
 
 ---
 
