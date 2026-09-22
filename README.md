@@ -1,12 +1,28 @@
-# AppSatbayev
+<p align="center">
+  <img src="assets/appsatbayev-mark.png" width="128" alt="AppSatbayev mark" />
+</p>
 
-Android release distribution for AppSatbayev, a student companion for Satbayev University.
+<h1 align="center">AppSatbayev</h1>
 
-## Download
+<p align="center">
+  Student companion for Satbayev University on Android.
+</p>
 
-Get the current stable build from the [Releases page](https://github.com/nhslo/SatbayevApp-Releases/releases/latest).
+<p align="center">
+  <a href="https://github.com/nhslo/SatbayevApp-Releases/releases/latest">Latest release</a>
+  &middot;
+  <a href="https://github.com/nhslo/SatbayevApp-Releases/releases">Release history</a>
+  &middot;
+  Android 7.0+
+</p>
 
-Android 7.0 or later is required.
+---
+
+<h2 align="center">Download</h2>
+
+<p align="center">
+  Get the app from the <a href="https://github.com/nhslo/SatbayevApp-Releases/releases/latest">latest stable release</a>.
+</p>
 
 For a manual installation, download `app-release.apk`. It is the universal APK and is the recommended choice for most devices. The release also contains architecture-specific packages for devices or deployment tools that require them:
 
@@ -17,13 +33,23 @@ For a manual installation, download `app-release.apk`. It is the universal APK a
 | `app-armeabi-v7a-release.apk` | 32-bit ARM devices |
 | `app-x86_64-release.apk` | x86_64 emulators and compatible devices |
 
-## Screenshots
+<h2 align="center">Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/01-schedule.png" width="30%" alt="Schedule screen" />
-  <img src="screenshots/02-content.png" width="30%" alt="Content centre screen" />
-  <img src="screenshots/03-settings.png" width="30%" alt="Settings screen" />
+  <img src="screenshots/01-home.png" width="30%" alt="Home screen with demonstration data" />
+  <img src="screenshots/02-journal.png" width="30%" alt="Journal screen with demonstration data" />
+  <img src="screenshots/03-schedule.png" width="30%" alt="Schedule screen with demonstration data" />
 </p>
+
+<p align="center">
+  <img src="screenshots/04-performance.png" width="30%" alt="Academic performance screen with demonstration data" />
+  <img src="screenshots/05-content.png" width="30%" alt="Content centre screen" />
+  <img src="screenshots/06-settings.png" width="30%" alt="Settings screen" />
+</p>
+
+<p align="center"><sub>All account and academic values shown in screenshots are demonstration data.</sub></p>
+
+---
 
 ## App capabilities
 
