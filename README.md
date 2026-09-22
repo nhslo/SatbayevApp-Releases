@@ -48,4 +48,4 @@ For a manual installation, download `app-release.apk`. It is the universal APK a
 | `app-armeabi-v7a-release.apk` | 32-bit ARM devices |
 | `app-x86_64-release.apk` | x86_64 emulators and compatible devices |
 
-<p align="center"><sub>Copyright &copy; 2026 AppSatbayev. All Rights Reserved. The APK, design, branding, assets, screenshots and documentation may not be copied, modified or redistributed without prior written permission. <a href="LICENSE.md">License details</a>.</sub></p>
+<p align="center"><sub>Copyright &copy; 2026 AppSatbayev. All Rights Reserved. The APK, design, branding, assets, screenshots and documentation may not be copied, modified or redistributed without prior written permission. <a href="LICENSE">License details</a>.</sub></p>

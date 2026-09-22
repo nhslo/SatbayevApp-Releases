@@ -1,6 +1,7 @@
-# Proprietary License
+AppSatbayev Proprietary License
 
-Copyright © 2026 AppSatbayev. All Rights Reserved.
+Copyright (c) 2026 AppSatbayev
+All Rights Reserved.
 
 This repository is a public distribution channel for the signed AppSatbayev
 Android application and its accompanying materials.
@@ -10,14 +11,14 @@ screenshots, documentation and other materials in this repository are
 proprietary.
 
 Except to the extent required by applicable law or expressly permitted in
-writing by the copyright holder, you may not:
+writing by the copyright holder, no permission is granted to copy, modify,
+adapt, translate, decompile, disassemble, reverse engineer or create
+derivative works from the APK or other repository materials.
 
-- copy, modify, adapt, translate, decompile, disassemble, reverse engineer or
-  create derivative works from the APK or other repository materials;
-- redistribute, mirror, publish, sublicense, sell, rent, lease or otherwise
-  make the APK or modified versions available; or
-- use AppSatbayev branding, assets or screenshots in a way that implies
-  endorsement or affiliation.
+You may not redistribute, mirror, publish, sublicense, sell, rent, lease or
+otherwise make the APK or modified versions available. You may not use
+AppSatbayev branding, assets or screenshots in a way that implies endorsement
+or affiliation.
 
 No application source code, signing keys or deployment credentials are
 distributed through this repository. This license does not grant rights to
