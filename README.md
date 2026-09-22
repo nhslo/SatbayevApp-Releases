@@ -28,7 +28,7 @@
 <p align="center">
   <img src="screenshots/04-performance.png" width="30%" alt="Academic performance screen with demonstration data" />
   <img src="screenshots/05-content.png" width="30%" alt="Content centre screen" />
-  <img src="screenshots/06-settings.png" width="30%" alt="Settings screen" />
+  <img src="screenshots/06-profile.png" width="30%" alt="Student profile screen with demonstration data" />
 </p>
 
 <p align="center"><sub>All account and academic values shown in screenshots are demonstration data.</sub></p>
