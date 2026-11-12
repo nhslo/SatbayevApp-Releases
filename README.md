@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nhslo/SatbayevApp-Releases/releases/latest"><img src="https://img.shields.io/badge/Stable-v2.4.8-00796B?style=flat-square" alt="Stable v2.4.8" /></a>
+  <a href="https://github.com/nhslo/SatbayevApp-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/nhslo/SatbayevApp-Releases?label=Stable&color=00796B&style=flat-square" alt="Latest stable release" /></a>
   <a href="https://github.com/nhslo/SatbayevApp-Releases/actions"><img src="https://img.shields.io/badge/Build-GitHub%20Actions-24292F?style=flat-square&logo=githubactions" alt="Built by GitHub Actions" /></a>
   <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0 or newer" />
   <a href="https://github.com/nhslo/SatbayevApp-Releases/releases"><img src="https://img.shields.io/badge/Releases-history-4A6FA5?style=flat-square" alt="Release history" /></a>
