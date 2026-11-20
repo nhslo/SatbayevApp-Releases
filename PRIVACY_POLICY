@@ -1,26 +1,101 @@
-AppSatbayev Privacy Notice
+AppSatbayev Privacy Policy
 
-Last updated: 13 November 2026
+Last updated 21 November 2026.
 
-This is a preliminary notice.
+Operator and contact
 
-AppSatbayev is an independent, unofficial application that helps users view
-educational information. Account and academic information may be used to
-provide the features you choose to use.
+AppSatbayev is an independent student app operated by its developer, @nhslo.
+Contact 3578rtuii@gmail.com for access, correction, deletion or questions
+about how AppSatbayev handles your data. Keep passwords, session tokens and
+academic records out of public issues and support messages.
 
-When you use the rating feature, your course and academic results may be used
-to calculate and display your position. Your name or an alias may be visible
-to other users, depending on the feature and your available settings.
+University account and data on your device
 
-To provide the features you use, information about your account, session and
-academic results may be sent to the services that support the application.
+AppSatbayev sends your sign-in credentials directly from your device to
+Satbayev University's sign-in service over HTTPS. The developer, Supabase
+and our diagnostics service do not receive your university password. If you
+explicitly enable Remember Me, the app keeps your login and password in the
+device's protected storage until you disable that setting or clear app data.
+Session tokens and cookies needed for access are kept in device storage and
+cleared on sign-out. Sign-out does not change your Remember Me choice.
 
-Some information may be stored on your device. External services may process
-information under their own terms and policies.
+The app retrieves the profile, schedule, grades, transcript, journal,
+curriculum and course materials you use directly from university services.
+It keeps a device cache for offline use and faster loading. For university
+responses with a persistent offline cache, typical retention limits are
+30 days for standard content, 180 days for academic content and 365 days for
+critical records. Some content has a shorter limit or stays in memory.
+Preferences, saved credentials and manually saved files are controlled
+separately. Sign out to clear the app's university cache or clear the app's
+storage in device settings. Files saved outside app storage can be deleted
+where you saved them. The university manages the official records.
 
-Signing out and clearing the app's storage can remove local information.
-Information held by external services may require separate removal. Official
-university records are managed by the university.
+Optional services
 
-For questions, contact 3578rtuii@gmail.com. Please do
-not share passwords or private information in public issues.
+If you enable Microsoft Teams, Microsoft handles sign-in and Microsoft Graph
+provides assignments and materials to the app. The app keeps the Teams
+session on your device and signs it out when you sign out of the app.
+
+If you enable calendar integration, the app writes the schedule and
+reminders you select to a calendar on your device. If that calendar belongs
+to a cloud account, its provider synchronizes the events according to the
+calendar's settings. Disable synchronization in the app to remove events
+created by that integration.
+
+For Android push notifications, Firebase Cloud Messaging provides a device
+registration token. The app registers it with the university to deliver
+notifications to your device and requests removal when you disable
+notifications or sign out. For builds with Sentry crash reporting enabled,
+Sentry receives diagnostic information such as crash traces, the app version
+and device context to diagnose errors. Provider logs and backups follow the
+retention settings of the corresponding service.
+
+Rating with separate consent
+
+In versions that show a separate rating consent screen and connect to the
+updated rating service, participation is voluntary. The consent screen
+appears when you open the rating. Declining leaves the rest of AppSatbayev
+available. Agreement to the Terms of Use does not enroll you.
+
+After you agree, the app sends your university student ID, year of study,
+hashed course identifiers, transcript grades and credits, and semester
+assessment marks and absence rates to our Supabase rating service. It uses
+these data to compute and update the overall and semester rankings. The
+server uses your university session token to verify that a request comes
+from your account. It forwards that token to the university's protected
+profile endpoint and uses the response to verify the student ID. The
+rating database does not store the token or the verification response.
+Supabase hosts the rating database outside Kazakhstan.
+
+The public leaderboard shows an assigned pseudonym, year of study, position,
+GPA and other calculated results. Other users and anyone who accesses the
+public rating feed can see those fields. Restricted server records contain
+the student ID and the input used to refresh the overall rating. For the
+semester rating, the database stores calculated results rather than the
+raw journal. You can explicitly enable real-name display in rating settings.
+This sends your name to the service and makes it visible on the same public
+board. You can switch back to a pseudonym there.
+
+Supabase stores the consent version and time, student ID, rating inputs
+and results, and your display preference for participation. A weekly cleanup
+removes participant records after 120 days without rating activity. The app
+keeps a participation receipt and rating snapshots on the device for
+reopening the rating and offline display. The device revalidates older
+snapshots when it next fetches a fresh rating.
+
+In Settings > Rating privacy, tap Withdraw consent and delete data. Once
+the server confirms the request, your overall and semester entries, pending
+results, stored rating inputs and consent record are deleted from the active
+service. The app also removes the rating snapshot and receipt for that
+account on the current device. Copies previously saved by other viewers and
+service backups may persist until those copies expire or are removed.
+You can also request deletion by emailing 3578rtuii@gmail.com. This does not
+delete the university's records.
+
+Earlier app and server versions
+
+Earlier releases could send rating data when the app loaded the rating for
+your account, without the separate opt-in screen. If you still use an earlier
+release or cannot access the in-app removal button, email
+3578rtuii@gmail.com to request access, correction or deletion of your
+existing rating data.

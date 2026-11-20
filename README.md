@@ -58,7 +58,7 @@ For most modern Android phones, download [app-arm64-v8a-release.apk](https://git
 
 [Software license](LICENSE)  
 [Terms of use](TERMS_OF_USE)  
-[Preliminary privacy notice](PRIVACY_POLICY)
+[Privacy policy](PRIVACY_POLICY)
 
 Third-party software notices are available in the application where included and remain governed by their own licenses.
 
